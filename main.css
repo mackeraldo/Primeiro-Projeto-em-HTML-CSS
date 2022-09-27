@@ -1,0 +1,140 @@
+
+
+body{
+  font-family: 'Baloo Tammudu 2', cursive;
+  color: black;
+  background-color: 	 #f5f5f0;
+
+}
+nav{
+  display: flex;
+ margin-left: 25%;
+ 
+}
+
+.menu img{
+ width: 135px;
+  height: 60px;
+  margin: 0%;
+  margin-left: 35px;
+}
+
+.navegaçao  {
+  display: flex;
+ letter-spacing: 2px; 
+}
+ 
+.sobre {
+margin-top: 15px;
+margin-left: 15px;
+}
+section{
+  margin-top: -2%;
+ margin-left: 25%;
+ width: 47%;
+ background: url(IMG/imagem\ centro.jpg);
+ background-repeat: no-repeat;
+ background-position: center;
+height: 400px;
+
+
+}
+.etapa--dois{
+color: #ff6600;
+text-align: justify;
+
+ 
+}
+
+.sobre a:hover
+{ 
+  text-decoration: none;
+  background-color: #ff6600;
+ border-radius: 15%;
+}
+
+.acessorios{
+
+  margin-top: 15px;
+  margin-left: 15px;
+  }
+  
+.endereço{
+
+  margin-top: 15px;
+  margin-left: 15px;
+
+}
+
+a{
+text-decoration: none;
+
+
+}
+.h1{
+  margin-left: 130px;
+ 
+
+
+}
+.h2{
+  margin-left: 160px;
+  }
+  .botoes{
+  display: flex;
+ margin-top: 70px;
+
+   
+
+  }
+  .whastsap{
+  margin-left: 165px;
+    width: 125px;
+    height: 35px;
+    
+  }
+  .ligueagora{
+    margin-left: 15px;
+   width: 125px;
+    height: 35px;
+   
+  }
+  hr{
+    margin-top: 2%;  
+ 
+  }
+.prestaçao{
+ margin-left: 5%;
+ text-align: center;
+
+}
+.font{
+  text-align: center;
+ 
+}
+.secao2{
+  background:  #ff6600 ;
+  margin-top: 2%;
+  border-radius: 2%;
+}
+.secção3{
+  display:grid;
+grid-template-columns:29% 32% 29%;
+  text-align: center;
+ 
+}
+.esquerdo{
+  margin-left: 12%;
+background-color: #ffcc00;
+
+}
+.center{
+  margin-left: 8%;
+  background-color:  #ff9933;
+  ;
+}
+.direito{
+  margin-left: 8%;
+  background-color:  #ff6600
+  ;
+}
